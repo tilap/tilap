@@ -4,9 +4,10 @@
   <a href="https://twitter.com/devpulsion">Twitter</a>
 </p>
 
-- 🔭  I’m currently working as a freelance under the company name **[Devpulsion](https://www.devpulsion.com/)**.
-- 🌱  I’m currently learning **Google Cloud Platform** and **NextJS deployments**.
-- 💬  Ask me about **Node, react and react-native** or [spots to travel](https://instagram.com/tilap/) in Europe/Asia.
-- 📫  How to reach me: check on [Devpulsion](https://www.devpulsion.com/).
+- 🔭   I’m working as a freelance, with my solo company **[Devpulsion](https://www.devpulsion.com/)**.
+- 🌱   I’m currently playing with NextJS, GraphQL and Typescript.
+- 💬   Ask me about code regardng **Node, react and react-native**.
+- �☕   Let's have a coffee and talk about [spots to travel](https://instagram.com/tilap/) or backpacking around the world.
+- 📫   Drop me a word on jlavinh@gmail.com
 
 -------
